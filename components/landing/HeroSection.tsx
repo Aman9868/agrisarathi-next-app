@@ -62,10 +62,9 @@ export default function HeroSection() {
               </motion.p>
             </motion.div>
             <motion.p variants={fadeInUp} className="max-w-[600px] text-gray-500 md:text-lg dark:text-gray-400 py-4">
-              AgriSarathi Empowers Farmers With Intelligent, AI Driven Solutions
-              For Sustainable Farming, Enhanced Traceability, And Resource
-              Optimization, Leading To Higher Yields And Increased Income, All
-              Through A Unified Digital Platform.
+            Agrisarathi empowers FPO and Cooperatives to serve as last mile agri points for input and output services. 
+            Connected through a unified digital platform  connecting FPOs and Cooperative with their member farmers for 
+            sustainable farming, enhanced traceability and resource optimization, Leading to higher yields and increased income.
             </motion.p>
             <motion.div variants={fadeInUp} className="flex flex-col gap-2 min-[400px]:flex-row" onClick={() =>{
                   router.push("/know-more");

@@ -23,7 +23,7 @@ export default function ComingSoonSection() {
         </div>
         <div className="space-y-14 space-x-8">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-800">
-            Agrisarathi Is Coming Soon!
+            Agrisarathi Is Live
           </h1>
           <p className="text-xl text-gray-600">
             Get Ready To Transform Your Farming Journey
@@ -33,11 +33,8 @@ export default function ComingSoonSection() {
           </p>
           <div className="space-y-4">
             <h2 className="text-2xl font-semibold text-gray-800">
-              Be The First To Know When We Go Live
+              Connect with us to Know more
             </h2>
-            <p className="text-gray-600">
-              Enter Your Email Below And Stay Updated On Our Launch.
-            </p>
             <form onSubmit={handleSubmit} className="space-y-4">
               <input
                 type="email"

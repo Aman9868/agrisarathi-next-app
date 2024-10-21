@@ -21,13 +21,10 @@ function page() {
             />
           </div>
           <p className="text-gray-400 text-sm md:text-base leading-relaxed">
-            We Are A Fintech Agritech Company That Realizes 'AGRI And RURAL Is The Growth Of India' Through 'DIGITAL FINANCIAL INCLUSION'. This Ignites Our Vision For The Right 'ECOSYSTEM' For Rural India. We Believe In Creating A Sustainable Ecosystem For Farmers And Rural India, To Enhance Their Farming Practices And Improve Their Livelihoods. Our Mission Is To Empower Farmers And Rural People With Seamless, Convenient, Secure, Cost-Effective, Faster Transactions To Cater To Their Financial Needs. We Believe In Partnerships With Agri-Ecosystem Players To Create Value For The Farmers And Rural People As Well As To Ensure Fair Returns To All The Stakeholders.
+            We Are An Agritech Company That Combines Digital and Physical engagement to drive vision of democratizing agri services and enable FPO and cooperatives to be a sustainable platform for development.  We Believe In strength of Partnerships With Agri-Ecosystem Players To Create Value For The Farmers, FPO and Cooperatives And Rural People As Well As To Ensure Fair Returns To All The Stakeholders.
           </p>
           <p className="text-gray-400 text-sm md:text-base leading-relaxed mt-4">
-            We Thrive With AGRI Expertise To Offer Our Digital Services, The Farmers Input Supplies, Agri Credit & Community Driven, "One-On-One" Crop, Cultivation Practices, Crop Insurance, Farm Mechanization, Warehousing, Market Linkages, Etc. We Believe In Offering Customized Solutions To The Farmers Based On Their Specific Needs. Our Team Of Experts Works Closely With Farmers To Understand Their Challenges And Provide Tailored Solutions That Help Them Increase Their Productivity And Profitability. We Are Committed To Driving Positive Change In The Agricultural Sector And Contributing To The Overall Development Of Rural India.
-          </p>
-          <p className="text-gray-400 text-sm md:text-base leading-relaxed mt-4">
-            Our Innovative Teams Also Act As Hub Specially For Horticulture Crops, Processing Services And Farming Quality Produce To National And Global Markets.
+            We Thrive With AGRI Expertise To Offer Our Digital Services, The Farmers Input Supplies, Agri Credit & Community Driven, "One-On-One" Crop, Cultivation Practices, Soil Testing, Drone Service for intelligent Farm Mechanization, Warehousing, Market Linkages, Etc. We Believe In Offering Customized Solutions To The Farmers Based On Their Specific Needs. Our Team Of Experts Works Closely With Farmers To Understand Their Challenges And Provide Tailored Solutions That Help Them Increase Their Productivity And Profitability. We Are Committed To Driving Positive Change In The Agricultural Sector And Contributing To The Overall Development Of Rural India.
           </p>
         </div>
       </div>

@@ -51,13 +51,6 @@ export default function AgrisarathiInfographic() {
             </div>
           </div>
           <div className="border-l-2 border-dashed border-gray-400 h-4 absolute left-[5px] top-[188px]"></div>
-          <div className="flex items-start">
-            <div className="w-3 h-3 bg-green-600 rounded-full mt-1 mr-2"></div>
-            <div>
-              <h3 className="font-bold md:text-2xl">Agri Finance Marketplace</h3>
-              <p className="text-gray-400 text-sm md:text-base leading-relaxed my-2">Enabled By Our Partners Addressing Credit Needs Of Farmers, FPOs And Agri-startups (Seasonal Capital)</p>
-            </div>
-          </div>
         </div>
         <div className="rounded-lg overflow-hidden">
           <Image src="/timeline1.png" alt="Farmer using smartphone" width={400} height={300} className="w-full h-full object-cover" />

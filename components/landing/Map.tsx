@@ -7,7 +7,7 @@ export default function Map() {
         <div className="w-full lg:w-1/2">
           <div className="relative w-full" style={{ paddingBottom: "111.7%" }}>
             <Image
-              src="/map.svg"
+              src="/map.png"
               alt="Map of India showing AgriSmart's reach"
               layout="fill"
               objectFit="contain"

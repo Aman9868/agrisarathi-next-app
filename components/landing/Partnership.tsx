@@ -10,12 +10,7 @@ export default function Partnership() {
         </h2>
         <div className="relative flex w-full flex-col items-center justify-center overflow-hidden rounded-lg">
           <Marquee pauseOnHover className="[--duration:20s]">
-            <div className="flex flex-row items-center space-x-4">
-              <Image src="/part1.svg" alt="JMP Logo" width={100} height={100} />
-              <div className="text-center">
-                <p className="text-sm text-muted-foreground">Client</p>
-              </div>
-            </div>
+
             <div className="flex flex-row items-center space-x-4">
               <Image
                 src="part2.svg"
@@ -24,7 +19,7 @@ export default function Partnership() {
                 height={300}
               />
               <div className="text-center ml-2">
-                <h3 className="text-xl font-semibold">UA AGRO SOLUTIONS</h3>
+            
                 <p className="text-sm text-muted-foreground">
                   Strategic Partner
                 </p>

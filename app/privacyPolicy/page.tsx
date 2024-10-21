@@ -471,7 +471,7 @@ const PrivacyPolicy: React.FC = () => {
           unconditional acceptance of such updates to this Privacy Policy.
         </p>
 
-        <p className="mb-4">For Agrisarathi</p>
+        <p className="mb-4">Agrisarathi Innovations Pvt Ltd</p>
       </section>
     </div>
   );

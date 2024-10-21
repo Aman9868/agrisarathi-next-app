@@ -27,7 +27,7 @@ export default function Footer() {
             <div className="flex items-center">
               <Mail className="w-5 h-5 text-gray-400 mr-2" />
               <a href="mailto:communications@accessassist.in" className="text-sm text-gray-600 hover:text-gray-900">
-                communications@accessassist.in
+                reachus@agrisarathi.com
               </a>
             </div>
             <div className="flex items-center">
