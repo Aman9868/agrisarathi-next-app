@@ -13,6 +13,7 @@ export default function Footer() {
             <Link href="/farmers" className="block text-gray-600 hover:text-gray-900">Farmers</Link>
             <Link href="/about" className="block text-gray-600 hover:text-gray-900">About Us</Link>
             <Link href="/privacyPolicy" className="block text-gray-600 hover:text-gray-900">Privacy Policy</Link>
+            <Link href="cancellations-refund-policy" className="block text-gray-600 hover:text-gray-900">Cancellations & Refunds</Link>
             <Link href="/careers" className="block text-gray-600 hover:text-gray-900">Careers</Link>
           </div>
 
@@ -56,10 +57,14 @@ export default function Footer() {
         {/* Bottom Row */}
         <div className="mt-8 pt-8 border-t border-gray-200 flex flex-col md:flex-row justify-between items-center">
           <div className="mb-4 md:mb-0">
-            <Link href="/privacyPolicy" className="text-sm text-gray-600 hover:text-gray-900">
+            <Link href="/privacyPolicy" className="text-sm text-gray-600 hover:text-gray-900 mr-2">
               Privacy Policy Terms & Conditions
             </Link>
+            <Link href="/cancellations-refund-policy" className="text-sm text-gray-600 hover:text-gray-900 ml-2">
+              Cancellations & Refunds Policy
+            </Link>
           </div>
+
           <div className="flex space-x-4">
             <a href="#" className="text-gray-400 hover:text-gray-600">
               <Facebook className="w-5 h-5" />
